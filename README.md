@@ -14,91 +14,61 @@
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
+- [Table of Contents](#table-of-contents)
 - [Everyday Dev Tasks](#everyday-dev-tasks)
 - [Debugging](#debugging)
 - [Documentation](#documentation)
 - [Testing](#testing)
 - [Package Management](#package-management)
 - [AI-Native Tasks](#ai-native-tasks)
-- [Codecasts & Context](#codecasts--context)
-- [Fun & Experimental](#fun--experimental)
+- [Context](#context)
+- [Fun \& Experimental](#fun--experimental)
+- [Start from Scratch](#start-from-scratch)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
-
-## Getting Started
-
-- `// Help me get set up`
-  <sub>Useful for new frontend projects—React, Vue, etc.</sub>
-
-- `// What's going on in this repo?`
-  <sub>Great for legacy repos or onboarding onto unfamiliar code.</sub>
-
-- `// Initialize a new Express app with CORS enabled`
-  <sub>Web backend projects using Node.js and Express.</sub>
-
-- `// Set up a monorepo using Turborepo and PNPM`
-  <sub>Multi-package JS/TS projects with shared dependencies.</sub>
-
-- `// Bootstrap a Python project with Poetry and Pytest`
-  <sub>Python repos aiming for clean dependency and test setup.</sub>
-
-- `// Create a starter template for a Chrome extension`
-  <sub>Browser extension development.</sub>
-
-- `// Generate a GitHub Actions workflow to lint, test, and deploy this app`
-  <sub>CI/CD setup for almost any GitHub-hosted repo.</sub>
-
-- `// I want to build a web scraper—start me off`
-  <sub>Data scraping or automation tools using Python/Node.</sub>
-
-
-
 ## Everyday Dev Tasks
 
-- `// Refactor this file`
+- `// Refactor {a specific} file from {x} to {y}...`
   <sub>General-purpose, applies to any language or repo.</sub>
 
-- `// Add a test suite`
+- `// Add a test suite...`
   <sub>Useful for repos lacking test coverage.</sub>
 
-- `// Add type hints to this Python function`
+- `// Add type hints to {a specific} Python function...`
   <sub>Python codebases transitioning to typed code.</sub>
 
-- `// Generate mock data for this schema`
+- `// Generate mock data for {a specific} schema...`
   <sub>APIs, frontends, or test-heavy environments.</sub>
 
-- `// Convert these commonJS modules to ES modules`
+- `// Convert these commonJS modules to ES modules...`
   <sub>JS/TS projects modernizing legacy code.</sub>
 
-- `// Turn this callback-based code into async/await`
+- `// Turn this callback-based code into async/await...`
   <sub>JavaScript or Python codebases improving async logic.</sub>
 
 
 
 ## Debugging
 
-- `// Help me fix this error`
+- `// Help me fix {a specific} error...`
   <sub>For any repo where you're stuck on a runtime or build error.</sub>
 
-- `// Why is this slow?`
+- `// Why is {this specific snippet of code} slow?`
   <sub>Performance profiling for loops, functions, or queries.</sub>
 
-- `// Trace why this value is undefined`
+- `// Trace why this value is undefined...`
   <sub>Frontend and backend JS/TS bugs.</sub>
 
-- `// Diagnose this memory leak`
+- `// Diagnose this memory leak...`
   <sub>Server-side apps or long-running processes.</sub>
 
-- `// Add logging to help debug this issue`
+- `// Add logging to help debug this issue...`
   <sub>Useful when troubleshooting silent failures.</sub>
 
 - `// Find race conditions in this async code`
   <sub>Concurrent systems in JS, Python, Go, etc.</sub>
-
 
 
 ## Documentation
@@ -111,15 +81,6 @@
 
 - `// Write API docs for this endpoint`
   <sub>REST or GraphQL backends.</sub>
-
-- `// Summarize this PR in plain English`
-  <sub>Collaboration-heavy repos or open source.</sub>
-
-- `// Generate commit messages from this diff`
-  <sub>Standardizes commits across teams.</sub>
-
-- `// Create a changelog entry from this set of commits`
-  <sub>Useful for versioned libraries and tools.</sub>
 
 
 
@@ -152,9 +113,6 @@
 
 - `// Show me the changelog for React 19`
   <sub>Web frontend apps using React.</sub>
-
-- `// Replace deprecated packages in this repo`
-  <sub>Projects with stale or broken dependencies.</sub>
 
 - `// Which dependencies can I safely remove?`
   <sub>Bloated or legacy codebases.</sub>
@@ -189,10 +147,7 @@
 
 
 
-## Codecasts & Context
-
-- `// Create a codecast explaining this diff`
-  <sub>Collaborative or review-heavy teams.</sub>
+## Context
 
 - `// Write a status update based on recent commits`
   <sub>Managerial and async communication.</sub>
@@ -200,27 +155,15 @@
 - `// Summarize all changes in the last 7 days`
   <sub>Catching up after time off.</sub>
 
-- `// Explain the context of this PR to a new team member`
-  <sub>Helpful for onboarding.</sub>
-
-- `// Narrate the history of this file`
-  <sub>For long-lived or complicated files.</sub>
-
-- `// Translate these changes into a team Slack message`
-  <sub>Cross-functional or async teams.</sub>
-
 
 
 ## Fun & Experimental
 
-- `// Add a confetti animation when this action succeeds`
+- `// Add a confetti animation when {a specific} action succeeds`
   <sub>Frontend web apps with user delight moments.</sub>
 
-- `// Inject a developer joke when the build finishes`
+- `// Inject a developer joke when {a specific} build finishes`
   <sub>Personal projects or team tools.</sub>
-
-- `// Write a bash alias that compliments me each time I deploy`
-  <sub>CLI fans or dev ops teams.</sub>
 
 - `// Build a mini CLI game that runs in the terminal`
   <sub>For learning or community fun.</sub>
@@ -230,6 +173,27 @@
 
 - `// Turn this tool into a GitHub App`
   <sub>Reusable, platform-integrated tools.</sub>
+
+## Start from Scratch
+
+- `// What's going on in this repo?`
+  <sub>Great for legacy repos or onboarding onto unfamiliar code.</sub>
+
+- `// Initialize a new Express app with CORS enabled`
+  <sub>Web backend projects using Node.js and Express.</sub>
+
+- `// Set up a monorepo using Turborepo and PNPM`
+  <sub>Multi-package JS/TS projects with shared dependencies.</sub>
+
+- `// Bootstrap a Python project with Poetry and Pytest`
+  <sub>Python repos aiming for clean dependency and test setup.</sub>
+
+- `// Create a starter template for a Chrome extension`
+  <sub>Browser extension development.</sub>
+
+- `// I want to build a web scraper—start me off`
+  <sub>Data scraping or automation tools using Python/Node.</sub>
+
 
 
 ## Contributing
