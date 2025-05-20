@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Awesome Jules Prompts 🌟</h1>
-  <p>Curated prompts for Jules, the AI-powered IDE companion.</p>
+  <p>Curated prompts for Jules, an async coding agent from Google Labs.</p>
   <br>
   <a href="https://jules.google.com">Visit Jules</a> •
   <a href="#contributing">Contribute</a>
