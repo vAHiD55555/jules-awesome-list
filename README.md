@@ -48,6 +48,9 @@
 - `// Turn this callback-based code into async/await...`
   <sub>JavaScript or Python codebases improving async logic.</sub>
 
+- `// Implement a data class for this dictionary structure...`
+  <sub>Useful for Python projects moving towards more structured data handling with `dataclasses` or Pydantic.</sub>
+
 
 
 ## Debugging
@@ -70,6 +73,9 @@
 - `// Find race conditions in this async code`
   <sub>Concurrent systems in JS, Python, Go, etc.</sub>
 
+- `// Add print statements to trace the execution flow of this Python script...`
+  <sub>For debugging complex Python scripts or understanding unexpected behavior.</sub>
+
 
 ## Documentation
 
@@ -81,6 +87,9 @@
 
 - `// Write API docs for this endpoint`
   <sub>REST or GraphQL backends.</sub>
+
+- `// Generate Sphinx-style docstrings for this Python module/class/function...`
+  <sub>Ideal for Python projects using Sphinx for documentation generation.</sub>
 
 
 
@@ -103,6 +112,9 @@
 
 - `// Write a test to ensure backward compatibility for this function`
   <sub>Library or SDK maintainers.</sub>
+
+- `// Write a Pytest fixture to mock this external API call...`
+  <sub>For Python projects using Pytest and needing robust mocking for testing.</sub>
 
 
 
@@ -144,6 +156,9 @@
 
 - `// Convert this function into a reusable plugin/module`
   <sub>Componentizing logic-heavy code.</sub>
+
+- `// Refactor this Python function to be more amenable to parallel processing (e.g., using multiprocessing or threading)...`
+  <sub>For optimizing performance in computationally intensive Python applications.</sub>
 
 
 
